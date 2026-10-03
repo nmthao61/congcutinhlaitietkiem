@@ -12,7 +12,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 APP TÍNH LÃI SUẤT TIẾT KIỆM")
+st.title("💰Công cụ tính lãi suất tiết kiệm_Nguyễn Mai Thảo")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 st.divider()
